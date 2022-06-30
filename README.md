@@ -53,10 +53,11 @@ For any additional questions, please contact **Rebecca Frost-Brewer (frostbrewer
 ├── README.md                         <- The top-level README for reviewers of this project
 ├── index.ipynb                       <- Narrative documentation of analysis in Jupyter notebook
 ├── img
-    ├── churn.png
-    └── rfb-headshot.png
-├── jnb-time-series.pdf    <- PDF of jupyter notebook
-├── ppt-time-series-presentation.pdf        <- PDF version of project presentation
-├── readme-time-series.pdf <- PDF of github readme
-└── zillow_data.csv                       <- Sourced externally
+    ├── line-plot.png
+    ├── roi.png
+    └── value-increase.png
+├── jnb-time-series.pdf               <- PDF of jupyter notebook
+├── ppt-time-series-presentation.pdf  <- PDF version of project presentation
+├── readme-time-series.pdf            <- PDF of github readme
+└── zillow_data.csv                   <- Sourced externally
 ```
