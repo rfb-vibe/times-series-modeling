@@ -35,3 +35,23 @@ Lastly, I also include the median home value as a data point to consider for inv
 # Recommendations
 
 # Future Work
+
+# For More Information
+
+Please review our full analysis in [our Jupyter Notebook](./index.ipynb) or our [presentation](./ppt-time-series-presentation.pdf).
+
+For any additional questions, please contact **Rebecca Frost-Brewer (frostbrewerr@gmail.com)**
+
+# Repository Structure
+
+```
+├── README.md                         <- The top-level README for reviewers of this project
+├── index.ipynb                       <- Narrative documentation of analysis in Jupyter notebook
+├── img
+    ├── churn.png
+    └── rfb-headshot.png
+├── jnb-time-series.pdf    <- PDF of jupyter notebook
+├── ppt-time-series-presentation.pdf        <- PDF version of project presentation
+├── readme-time-series.pdf <- PDF of github readme
+└── zillow_data.csv                       <- Sourced externally
+```
