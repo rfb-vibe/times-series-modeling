@@ -27,10 +27,15 @@ Lastly, I also include the median home value as a data point to consider for inv
 
 ## Exploratory Data Analysis
 
+![lineplot](img/line-plot.png)
 
 # Modeling Description
 
 # Results
+
+![value increase](img/value-increase.png)
+
+![roi](img/roi.png)
 
 # Recommendations
 
